@@ -3,7 +3,7 @@ WePay Plugin
 
 This is a plugin for `pretix`_. 
 
-Offer a WePay payment integration.
+Its purpose is to integrate a WePay payment method into the existing pretix environment.
 
 Development setup
 -----------------
